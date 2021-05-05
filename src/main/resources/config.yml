@@ -1,0 +1,6 @@
+mysqlServer: ''
+mysqlPort: 3306
+mysqlUsername: ''
+mysqlPassword: ''
+mysqlDatabase: ''
+mysqlOption: '?allowPublicKeyRetrieval=true&useSSL=false'

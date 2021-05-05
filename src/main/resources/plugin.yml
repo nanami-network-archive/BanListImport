@@ -1,0 +1,6 @@
+name: BanListImport
+version: ${project.version}
+main: xyz.n7mn.dev.banlistimport.BanListImport
+api-version: 1.16
+authors: [ 7mi_chan ]
+description: BanListImport
